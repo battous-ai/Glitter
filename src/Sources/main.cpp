@@ -1,5 +1,5 @@
 // Local Headers
-#include "glitter.hpp"
+#include "Glitter/glitter.h"
 
 // System Headers
 #include <glad/glad.h>
